@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e27dc0c5-3212-2b0f-b5a4-073cea66aa3d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Special Topics: Social Animals",
+  "course_description": "Humans are social animals; social demands, both cooperative and competitive, structure our development, our brain and our mind. This course covers social development, social behaviour, social cognition and social neuroscience, in both human and non-human social animals. Topics include altruism, empathy, communication, theory of mind, aggression, power, groups, mating, and morality. Methods include evolutionary biology, neuroscience, cognitive science, social psychology and anthropology.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.916",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
